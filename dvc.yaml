@@ -11,5 +11,5 @@ stages:
       - Data/processed_test_data.csv
     params:
       - features.chi2percentile
-      - features.train_path
+      - features.data_path
       - features.test_path

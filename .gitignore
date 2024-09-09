@@ -1,0 +1,9 @@
+mlflow_sandbox
+models
+*mlflow.db
+Data/adult_test.csv
+Data/adult_train.csv
+Data/final_dataset.csv
+textbooks
+Labs/data_docs/
+Labs/lab4_colinbennie.zip

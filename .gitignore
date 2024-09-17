@@ -8,3 +8,11 @@ textbooks
 Labs/data_docs/
 Labs/lab4_colinbennie.zip
 scripts/.metaflow/
+Labs/Dockerfile
+Labs/mlflow_test/
+Labs/mlruns/
+Labs/requirements.txt
+Labs/server.sh
+Lecture_Notes/commands.txt
+gx/
+scripts/tmp_nb.ipynb
